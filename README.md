@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Jason-Addison&color=blue
+![](https://komarev.com/ghpvc/?username=Jason-Addison&color=blue)
